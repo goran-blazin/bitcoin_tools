@@ -7,7 +7,7 @@
     "bigi": "^1.4.2",
     "ecurve": "^1.0.3",
     "bitcoinjs-lib": "^2.3.0",
-    "bs58": "^3.0.0",
+    "bs58": "^6.0.0",
     "buffer": "^5.0.0"
   },
   "devDependencies": {},
